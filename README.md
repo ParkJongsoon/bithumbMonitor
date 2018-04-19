@@ -10,7 +10,7 @@ Bithumb Monitor Price란 : 빗썸 API 활용하여 빗썸에 상장된 코인들
  
 미리보기 : 
 
-![CoinMonitor](/home/pi/MyProject/git/CoinMonitor/img/CoinMonitor.png)
+![CoinMonitor](https://blogfiles.pstatic.net/MjAxODAyMDNfMjcw/MDAxNTE3NjU4MzQ1MjQ2.pEdL0x_833BaysWfYDduxvj1VALpJMZrWLExtDbzrWsg.PMAZHou3eSJx3K4NoR5gFg-cr2O_R-X_7v4FmCgbuCYg.PNG.jongsunday/image.png)
 
 
 naver blog : jongsunday.blog.me/221200411874
