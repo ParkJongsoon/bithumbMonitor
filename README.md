@@ -1,1 +1,1 @@
-Bithumb Coin Price Monior
+Bithumb Monitor Price
